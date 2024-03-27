@@ -1,5 +1,7 @@
 module github.com/charmbracelet/vhs
 
+replace github.com/charmbracelet/vhs => ./vhs
+
 go 1.18
 
 require (
